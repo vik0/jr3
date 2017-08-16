@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/jr3.dir/Jr3Sensor.cpp.o CMakeFiles/jr3.dir/jr3DriverInterface.c.o CMakeFiles/jr3.dir/main.cpp.o  -o jr3 -rdynamic 

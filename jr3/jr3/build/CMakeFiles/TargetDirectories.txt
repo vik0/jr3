@@ -1,3 +1,0 @@
-/home/vikranth/Desktop/JR3/jr3/jr3/build/CMakeFiles/edit_cache.dir
-/home/vikranth/Desktop/JR3/jr3/jr3/build/CMakeFiles/rebuild_cache.dir
-/home/vikranth/Desktop/JR3/jr3/jr3/build/CMakeFiles/jr3.dir
